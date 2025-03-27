@@ -23,6 +23,7 @@ namespace MinhasCompras.Views
                     Descricao = txt_descricao.Text,
                     Quantidade = Convert.ToDouble(txt_quantidade.Text),
                     Preco = Convert.ToDouble(txt_preco.Text),
+                    Desconto = Convert.ToDouble(txt_desconto.Text),
                 };
 
                 // Tenta salvar o produto no banco

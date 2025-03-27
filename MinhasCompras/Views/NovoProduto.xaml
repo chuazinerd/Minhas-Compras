@@ -20,5 +20,8 @@
 
         <Label Text="Preco: "/>
         <Entry x:Name="txt_preco" Keyboard="Numeric"/>
+        
+        <Label Text="Desconto: "/>
+        <Entry x:Name="txt_desconto" Keyboard="Numeric"/>
     </VerticalStackLayout>
 </ContentPage>

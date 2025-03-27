@@ -182,3 +182,4 @@ C:\Users\felip3fj\source\repos\MinhasCompras\MinhasCompras\bin\Debug\net8.0-wind
 C:\Users\felip3fj\source\repos\MinhasCompras\MinhasCompras\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
 C:\Users\felip3fj\source\repos\MinhasCompras\MinhasCompras\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
 C:\Users\felip3fj\source\repos\MinhasCompras\MinhasCompras\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
+C:\Users\felip3fj\source\repos\MinhasCompras\MinhasCompras\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MinhasCompras.sourcelink.json

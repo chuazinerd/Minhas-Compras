@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\felip3fj\source\repos\MinhasCompras\MinhasCompras\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-03-24T05:01:53.841</Modified>
+      <Modified>2025-03-27T05:22:00.968</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\felip3fj\source\repos\MinhasCompras\MinhasCompras\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-03-19T01:09:46.898</Modified>
+      <Modified>2025-03-26T23:26:08.847</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\felip3fj\source\repos\MinhasCompras\MinhasCompras\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MinhasCompras.runtimeconfig.json">
       <PackagePath>MinhasCompras.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\felip3fj\source\repos\MinhasCompras\MinhasCompras\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MinhasCompras.dll">
       <PackagePath>MinhasCompras.dll</PackagePath>
-      <Modified>2025-03-24T05:01:53.205</Modified>
+      <Modified>2025-03-27T05:21:59.467</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\felip3fj\source\repos\MinhasCompras\MinhasCompras\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MinhasCompras.exe</PackagePath>
-      <Modified>2025-03-24T05:01:53.214</Modified>
+      <Modified>2025-03-27T05:21:59.541</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\felip3fj\source\repos\MinhasCompras\MinhasCompras\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -288,7 +288,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\felip3fj\source\repos\MinhasCompras\MinhasCompras\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MinhasCompras.deps.json">
       <PackagePath>MinhasCompras.deps.json</PackagePath>
-      <Modified>2025-03-19T01:13:00.084</Modified>
+      <Modified>2025-03-26T23:26:08.410</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\felip3fj\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.34\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

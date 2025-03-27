@@ -17,7 +17,11 @@
                    Keyboard="Numeric"/>
 
             <Label Text="Preco: "/>
-        <Entry x:Name="txt_preco" Text="{Binding Preco}"
+            <Entry x:Name="txt_preco" Text="{Binding Preco}"
                Keyboard="Numeric"/>
+
+            <Label Text="Desconto: "/>
+            <Entry x:Name="txt_desconto" Text="{Binding Desconto}"
+            Keyboard="Numeric"/>
     </VerticalStackLayout>
 </ContentPage>
